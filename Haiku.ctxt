@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Haiku
+comment0.text=\r\n\ (a.)\ Creates\ a\ Haiku,\ which\ is\ a\ Japanese\ poem\ that\ has\ three\ lines\ about\ \r\n\ animals\ and\ nature.\r\n\r\n\ @author\ Ryan\ Clarke\r\n\ \r\n\ @version\ 14.01.2025\r\n
+comment1.params=
+comment1.target=Haiku()
+comment1.text=\r\n\ (b.)Constructor\ for\ objects\ of\ class\ Haiku.\ \ \r\n
+comment2.params=
+comment2.target=void\ populate()
+comment2.text=\r\n\ (c.)Populates\ the\ words\ map\ with\ a\ list\ of\ words\ with\ corresponding\r\n\ syllables.\r\n
+comment3.params=
+comment3.target=void\ printWords()
+comment3.text=\r\n\ (d.)Prints\ the\ content\ of\ words\ map.\r\n
+comment4.params=syllables\ newWord
+comment4.target=void\ addWord(int,\ java.lang.String)
+comment4.text=\r\n\ (e.)\ Adds\ a\ word\ to\ the\ words\ map.\r\n\ \r\n\ @param\ syllables\ Indicates\ the\ number\ of\ syllables\ associated\u0000\ with\ the\r\n\ new\ word.\r\n\ whilst\ assuming\ that\ the\ value\ of\ the\ first\ parameter\ agrees\ with\ the\r\n\ actual\ number\ of\ syllables.\r\n\ \r\n\ @param\ newWord\ The\ new\ word\ intended\ to\ be\ added\ to\ the\ list.\r\n
+comment5.params=totalNumOfSyllables
+comment5.target=java.lang.String\ makeLine(int)
+comment5.text=\r\n\ (f.)Creates\ a\ single\ line\ of\ the\ poem.\r\n\ \r\n\ @param\ totalNumOfSyllables\ Indicates\ how\ many\ syllables\ the\ line\ should\r\n\ have\ in\ total.\r\n\ \r\n\ @return\ A\ single\ line\ of\ poem.\r\n
+comment6.params=
+comment6.target=void\ printHaiku()
+comment6.text=\r\n\ (g.)Generates\ and\ prints\ the\ three\ lines\ of\ a\ haiku,\ each\ on\ a\ separate\ \r\n\ line\ with\ set\ syllable\ counts.\r\n
+numComments=7
